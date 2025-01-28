@@ -1,3 +1,5 @@
 Hello Dharma
 
 Happy to see you learning Git
+
+Create an avatar for user
